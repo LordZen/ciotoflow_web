@@ -5,17 +5,6 @@ body
   background-color: #000000;
   color: #cccccc;
 }
-.titolo
-{ 
-
-  background-color: transparent;
-  background-image: url("file:///home/garulf/cf/website/ciotoflow_web/images/cryptlogo.png");
-  background-repeat:no-repeat;
-  background-position: center;
-  width: 100%;
-  height: 167px;
-
-}
 
 table
 {
